@@ -1,0 +1,7 @@
+{
+  "name": "KeralaXplore Travel Diary",
+  "description": "A mobile-first web application for travelers in Kerala to capture daily trip information. It allows users to log their trips, including origin, destination, mode of transport, and accompanying travelers, creating a comprehensive travel diary.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
